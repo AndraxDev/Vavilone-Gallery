@@ -6,6 +6,8 @@ This gallery contains all avaliabe and unavaliable images. Program based on auto
 ## How to use
 Place image to the same directory with processor.py and rename as ***input.png***
 
+(Also you can use other formats, but do not forget to change file type at line 222 at ***processor.py***. Tested jpg and png. Other at you ovn risk. WARNING: Vector graphics not supported. You need to rasterize vector images first.)
+
 Run following command:
 
 ```ssh
