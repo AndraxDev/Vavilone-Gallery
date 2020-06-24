@@ -6,10 +6,18 @@ This gallery contains all avaliabe and unavaliable images. Program basedon autog
 ## How to use
 Place image to the same directory with processor.py and rename as ***input.png***
 
-run following command:
+Run following command:
 
 ```ssh
 $ py processor.py
 ```
 
 The programm convert image to decimal value and show position in gallery
+
+Run following command to start searching by id:
+
+```ssh
+$ py cycle.py
+```
+
+Note: before run you can change values of some variables
