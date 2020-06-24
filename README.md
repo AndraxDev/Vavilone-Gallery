@@ -21,3 +21,5 @@ $ py cycle.py
 ```
 
 Note: before run you can change values of some variables
+
+To simple convert decimal number to image use ***search.py***
