@@ -231,7 +231,7 @@ resize(input_image_resize, output_image_resize, basesize)
 # Converting to gray
 input_image_wb = output_image_resize
 output_image_wb = r"output.png"
-bright = 1.0
+bright = 0.5
 white_black(input_image_wb, output_image_wb, bright);
 
 # Converting to array
